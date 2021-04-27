@@ -18,6 +18,13 @@ This application is designed to allow the user to GET, PUT, POST,UPDATE and DELE
 ##Demonstration Videos
 ***
 ![](https://github.com/Bwaller1331/E-Commerce_Back_End/blob/main/Assets/img/eCommerceNpm.gif)
+***
+![](https://github.com/Bwaller1331/E-Commerce_Back_End/blob/main/Assets/img/eCommerceCategories.gif
+***
+![](https://github.com/Bwaller1331/E-Commerce_Back_End/blob/main/Assets/img/eCommerceProducts.gif)
+***
+![](https://github.com/Bwaller1331/E-Commerce_Back_End/blob/main/Assets/img/eCommerceTags.gif)
+***
 
 ## Installation
 Run npm i in an integrated terminal in VScode then create the database using msysql cli, seed the database using npm run seed, and finally starting the server with npm start. Using insomnia on localhost:3001/api you can use /tags, /categories, and /products to create, delete, and update the information in the database
