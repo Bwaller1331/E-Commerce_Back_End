@@ -19,7 +19,7 @@ This application is designed to allow the user to GET, PUT, POST,UPDATE and DELE
 ***
 ![](https://github.com/Bwaller1331/E-Commerce_Back_End/blob/main/Assets/img/eCommerceNpm.gif)
 ***
-![](https://github.com/Bwaller1331/E-Commerce_Back_End/blob/main/Assets/img/eCommerceCategories.gif
+![](https://github.com/Bwaller1331/E-Commerce_Back_End/blob/main/Assets/img/eCommerceCategories.gif)
 ***
 ![](https://github.com/Bwaller1331/E-Commerce_Back_End/blob/main/Assets/img/eCommerceProducts.gif)
 ***
